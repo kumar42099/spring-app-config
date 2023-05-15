@@ -1,7 +1,6 @@
   
 eureka:
   instance:
-    appname: ORDER-SERVICE
     prefer-ip-address: true
     hostname: localhost
   client:
